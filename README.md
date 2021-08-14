@@ -2,6 +2,7 @@
 A dungeon crawler game, where you try to get as much loot as possible!
 
 # How To Build
+So far, the compiled releases only work on Windows
 
 Requirements are:
   - Pyinstaller, that's it
