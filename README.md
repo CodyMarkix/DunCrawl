@@ -1,3 +1,5 @@
+# This project is abandoned (so far). Expect no support.
+
 # DunCrawl
 A dungeon crawler game, where you try to get as much loot as possible!
 
